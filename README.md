@@ -4,7 +4,7 @@
 
 A personal portfolio website for **Johit Kumar**, a UI/UX & Product Designer and CSE student based in Jaipur, Rajasthan. The site was designed in **Figma** and built as a fully responsive static website to showcase design work, services, and case studies to potential clients and collaborators.
 
-🔗 **Live Site:** _add your deployed link here once live_
+🔗 **Live Site:**(https://www.behance.net/gallery/252062729/UIUX-Design-Portfolio?)
 🔗 **Fignma Project Site Link :**  https://www.figma.com/design/Zp7Adlil7J5jRJ2zXtNqQI/Untitled?node-id=107-92&t=zylAKBpKEKO3Du0S-0
 
 ## 📖 About the Project
